@@ -1,3 +1,7 @@
 TextD1
+<<<<<<< HEAD
 TextD2
 addind new string1
+=======
+TextD2
+>>>>>>> b135f0b1a1bd6a7a28c0d4c1a7aee1763cd99570

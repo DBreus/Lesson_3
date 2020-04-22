@@ -1,6 +1,11 @@
 string C1
+<<<<<<< HEAD
 string C2
 string C3
 string C4
 addind new string1
 addind new string2
+=======
+String C2
+string d3
+>>>>>>> b135f0b1a1bd6a7a28c0d4c1a7aee1763cd99570
